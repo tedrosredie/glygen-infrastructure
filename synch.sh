@@ -1,6 +1,6 @@
 #!/bin/bash
 git add -A
 git status
-git commit -m "aaaa bbbb ccccc"
+git commit -m <file>
 git push
 git status
